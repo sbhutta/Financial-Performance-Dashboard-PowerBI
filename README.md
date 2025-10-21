@@ -50,7 +50,7 @@ Includes:
 - Balance Sheet Data Table  
 
 📸 **Screenshot:**  
-![Balance Sheet](Screenshots/Balance%20Sheet.png)
+![Balance Sheet](Analyzing%20Balance%20Sheet%20in%20Power%20BI/Screenshots/Balance%20Sheet.png)
 
 ---
 
@@ -63,7 +63,7 @@ Includes:
 - Historical Income Table (2015–2024)  
 
 📸 **Screenshot:**  
-![Income Sheet](Screenshots/Income%20Sheet.png)
+![Income Sheet](Analyzing%20Balance%20Sheet%20in%20Power%20BI/Screenshots/Income%20Sheet.png)
 
 ---
 
@@ -77,7 +77,7 @@ Includes:
 - Cash Flow Statement (2015–2024)  
 
 📸 **Screenshot:**  
-![Cash Flow](Screenshots/Cashflow.png)
+![Cash Flow](Analyzing%20Balance%20Sheet%20in%20Power%20BI/Screenshots/Cashflow.png)
 
 ---
 
@@ -90,7 +90,7 @@ Includes:
 - Gauge Indicators for Liquidity & Profitability  
 
 📸 **Screenshot:**  
-![Ratio Analysis](Screenshots/Ratio%20Analysis.png)
+![Ratio Analysis](Analyzing%20Balance%20Sheet%20in%20Power%20BI/Screenshots/Ratio%20Analysis.png)
 
 ---
 
@@ -116,4 +116,4 @@ Includes:
 
 **Muhammad Shariq**  
 📍 Data Analyst | Power BI | SQL | Excel  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-shariq-b82234372/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-shariq-b82234372/)

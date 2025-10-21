@@ -1,5 +1,3 @@
-# Financial-Performance-Dashboard-PowerBI
-A comprehensive Power BI financial performance dashboard analyzing Balance Sheet, Income Statement, Cash Flow, and Ratio Analysis from 2015–2024. This report highlights key financial metrics, trends, and ratios to evaluate profitability, liquidity, and overall business performance.
 ## 📊 Financial Performance Dashboard | Power BI  
 
 An end-to-end **Power BI financial analysis dashboard** providing a comprehensive view of a company’s performance across **Balance Sheet, Income Statement, Cash Flow, and Ratio Analysis** (2015–2024).  
